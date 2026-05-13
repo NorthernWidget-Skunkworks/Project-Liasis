@@ -1,0 +1,25 @@
+{
+  "title": "Project-Liasis",
+  "description": "A small-scale, low-cost longwave pyrgeometer for measuring terrestrial thermal infrared radiation.",
+  "upload_type": "other",
+  "license": "CC-BY-SA-4.0",
+  "creators": [
+    {
+      "name": "Wickert, Andy",
+      "affiliation": "Northern Widget LLC",
+      "orcid": "0000-0002-9545-3365"
+    },
+    {
+      "name": "Schulz, Bobby"
+    }
+  ],
+  "keywords": [
+    "pyrgeometer",
+    "longwave radiation",
+    "thermal infrared",
+    "atmospheric radiation",
+    "open hardware",
+    "environmental sensing"
+  ],
+  "access_right": "open"
+}

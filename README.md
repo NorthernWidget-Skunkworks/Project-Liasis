@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20171210.svg)](https://doi.org/10.5281/zenodo.20171210)
+
 # Project-Liasis
 
 A small-scale, low-cost longwave pyrgeometer for measuring terrestrial thermal infrared (longwave) radiation. It uses a ZTP-135SR thermopile sensor (~8–14 µm) and is designed for deployment in environmental monitoring networks.

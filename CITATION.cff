@@ -8,7 +8,8 @@ authors:
   given-names: "Bobby"
 title: "Project-Liasis"
 abstract: "A small-scale, low-cost longwave pyrgeometer for measuring terrestrial thermal infrared radiation."
-version: 0.1.1
-date-released: 2021-11-03
+version: 0.2.0
+doi: 10.5281/zenodo.20171210
+date-released: 2026-05-13
 url: "https://github.com/NorthernWidget-Skunkworks/Project-Liasis"
 license: CC-BY-SA-4.0
